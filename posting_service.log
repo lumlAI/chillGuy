@@ -1,0 +1,6 @@
+2024-12-06 00:28:37,803 - PostScheduler - INFO - Generated new schedule with 7 posts
+2024-12-06 01:01:23,265 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/agents/completions "HTTP/1.1 200 OK"
+2024-12-06 01:01:23,274 - ContentGenerator - INFO - Generated post about topic: 190. "Your startup investors fled"
+2024-12-06 01:04:44,791 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/agents/completions "HTTP/1.1 200 OK"
+2024-12-06 01:04:44,803 - ContentGenerator - INFO - Generated post about topic: 142. "Your business partners betrayed"
+2024-12-06 01:04:45,536 - PostPublisher - INFO - Published tweet: 1865049542158065854

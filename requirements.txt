@@ -1,0 +1,7 @@
+mistralai>=0.0.7
+tweepy>=4.14.0
+pytz>=2023.3
+python-dotenv>=1.0.0
+asyncio>=3.4.3
+logging>=0.4.9.6
+httpx>=0.25.2
